@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue_store
 
 > vue store
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue_mall
+a vue mall with express
+>>>>>>> 03dc639c87ab8daf02e1abc3ea2446cdcd9c3edf
